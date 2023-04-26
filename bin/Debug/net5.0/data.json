@@ -1,0 +1,128 @@
+[
+{
+  "Name": "Cemal",
+  "Surname": "Süreyya",
+  "Nationality": "Türk",
+  "Poetry": [
+    {
+      "Name": "Sevgilim Ben Şimdi",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 9
+    },
+    {
+      "Name": "Bir Çiçek",
+      "NumberOfStanza": 3,
+      "NumberOfVerse": 10
+    }
+  ]
+},{
+  "Name": "Nazım",
+  "Surname": "Hikmet",
+  "Nationality": "Türk",
+  "Poetry": [
+    {
+      "Name": "Herkes Gibisin",
+      "NumberOfStanza": 2,
+      "NumberOfVerse": 8
+    },
+    {
+      "Name": "Ceviz Ağacı",
+      "NumberOfStanza": 3,
+      "NumberOfVerse": 16
+    },
+    {
+      "Name": "Güzel Günler Göreceğiz Çocuklar",
+      "NumberOfStanza": 9,
+      "NumberOfVerse": 31
+    }
+  ]
+},{
+  "Name": "Özdemir",
+  "Surname": "Asaf",
+  "Nationality": "Türk",
+  "Poetry": [
+    {
+      "Name": "Ben Değildim",
+      "NumberOfStanza": 4,
+      "NumberOfVerse": 20
+    }
+  ]
+},{
+  "Name": "Edgar Allan",
+  "Surname": "Poe",
+  "Nationality": "Amerikan",
+  "Poetry": [
+    {
+      "Name": "Annabel Lee",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 38
+    }
+  ]
+},{
+  "Name": "Charles",
+  "Surname": "Baudelaire",
+  "Nationality": "Fransız",
+  "Poetry": [
+    {
+      "Name": "Ne Dersin Bu Akşam",
+      "NumberOfStanza": 3,
+      "NumberOfVerse": 14
+    }
+  ]
+},{
+  "Name": "Jorge Luis",
+  "Surname": "Borges",
+  "Nationality": "Arjantinli",
+  "Poetry": [
+    {
+      "Name": "An’lar",
+      "NumberOfStanza": 4,
+      "NumberOfVerse": 29
+    }
+  ]
+},{
+  "Name": "Johann Wolfgang von",
+  "Surname": "Goethe",
+  "Nationality": "Alman",
+  "Poetry": [
+    {
+      "Name": "Melankoli ",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 6
+    }
+  ]
+},{
+  "Name": "Pablo",
+  "Surname": "Neruda",
+  "Nationality": "Şilili",
+  "Poetry": [
+    {
+      "Name": "Matilde’ye Sone",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 14
+    }
+  ]
+},{
+  "Name": "William",
+  "Surname": "Shakespeare",
+  "Nationality": "İngiliz",
+  "Poetry": [
+    {
+      "Name": "Sone 22",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 14
+    }
+  ]
+},{
+  "Name": "Victor",
+  "Surname": "Hugo",
+  "Nationality": "Fransız",
+  "Poetry": [
+    {
+      "Name": "Aşk Ki Sevgili Kızım...",
+      "NumberOfStanza": 1,
+      "NumberOfVerse": 12
+    }
+  ]
+}
+]
